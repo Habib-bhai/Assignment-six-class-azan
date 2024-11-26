@@ -38,7 +38,7 @@ const Hero = () => {
         {/* Image */}
         <div className="overflow-hidden relative h-[800px] w-[47.9%] flex-grow md-max:hidden">
           <Image
-            src="/Images/hero.png"
+            src="/images/hero2.svg"
             alt="Hero Image"
             layout="fill"
             objectFit="cover"
