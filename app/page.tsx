@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Hero from "./Components/hero/hero";
 import LogoSec from './Components/logo-sec/Logo-sec'
 import Courses from './Components/courses/Courses'

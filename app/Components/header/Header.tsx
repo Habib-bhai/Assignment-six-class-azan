@@ -13,7 +13,7 @@ import { Button } from "@/components/ui/button";
 import { useState } from "react";
 
 const Header = () => {
-  let [Menu, setMenu] = useState(false);
+  const [Menu, setMenu] = useState(false);
 
   function toggleMenu() {
     setMenu((menu: boolean) => !menu);

@@ -26,10 +26,10 @@ const Testimonials = () => {
             </div>
 
             <div>
-              <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <p>
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
             </div>
 
@@ -62,9 +62,9 @@ const Testimonials = () => {
 
             <div>
               <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
             </div>
 
@@ -96,10 +96,10 @@ const Testimonials = () => {
             </div>
 
             <div>
-              <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            <p>
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
             </div>
 
